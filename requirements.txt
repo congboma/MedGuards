@@ -1,0 +1,11 @@
+pandas
+tqdm
+scikit-learn
+google-generativeai
+nltk
+Levenshtein
+rouge_score
+rouge
+bert_score
+
+# conda create --name MedGuards python=3.9 -y
